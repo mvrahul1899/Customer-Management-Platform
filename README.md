@@ -2,6 +2,7 @@
 Customer Management Platform - This application stores customer information in a DB like a CRM. Users will have ability to create customers, customers orders performing CRUD operations on these information.
 
 (Please note that this project is still ongoing - Yet to add checkout & payment funcitonalities, notification panel, email notifications, resetting passwords, filtering ability in various pages etc...)
+
 Contains:-
 
 > **User Registration Page :
